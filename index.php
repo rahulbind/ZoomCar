@@ -330,16 +330,16 @@
 
                             <div class="social-media">
                                 <div class="number-circle1">
-                                    <a href="http://facebook.com" target="_blank"><i class="fa fa-facebook" aria-hidden="true" id="f1"></i></a>
+                                    <a href="https://facebook.com" target="_blank"><i class="fa fa-facebook" aria-hidden="true" id="f1"></i></a>
                                 </div>
                                 <div class="number-circle1" id="c1">
-                                    <a href="http://twitter.com"  target="_blank"><i class="fa fa-twitter" aria-hidden="true" id="f1"></i></a>
+                                    <a href="https://twitter.com"  target="_blank"><i class="fa fa-twitter" aria-hidden="true" id="f1"></i></a>
                                 </div>
                                 <div class="number-circle1" id="c2">
-                                    <a href="http://rss.com"  target="_blank"><i class="fa fa-rss" aria-hidden="true" id="f1"></i></a>
+                                    <a href="https://rss.com"  target="_blank"><i class="fa fa-rss" aria-hidden="true" id="f1"></i></a>
                                 </div>
                                 <div class="number-circle1" id="c3">
-                                    <a href="http://google.com"  target="_blank"><i class="fa fa-google-plus" aria-hidden="true" id="f1"></i></a>
+                                    <a href="https://google.com"  target="_blank"><i class="fa fa-google-plus" aria-hidden="true" id="f1"></i></a>
                                 </div>
                             </div>
                         </div>
