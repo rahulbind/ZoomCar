@@ -66,7 +66,7 @@ $(document).ready(function() {
         dottedOverlay: "none",
         delay: 5000,
         startwidth: 1170,
-        startheight: 500,
+        startheight: 550,
         hideThumbs: 200,
 
         thumbWidth: 100,
