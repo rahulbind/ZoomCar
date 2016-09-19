@@ -1,5 +1,5 @@
 .textsection{
-	background-image: url('../image/sec background.png');
+	background-image: url('../images/sec background.png');
 	font-family: 'Open Sans',sans-serif;
 
 }
@@ -246,7 +246,7 @@ h2{
 	vertical-align: top;
 }
 #register{
-	background-image: url('../image/register.png');
+	background-image: url('../images/register.png');
 	background-position: 60% 50%;
 }
 .circle{
@@ -280,15 +280,15 @@ h2{
 	font-size: 14px;
 }
 #connect{
-	background-image: url('../image/connect.png');
+	background-image: url('../images/connect.png');
 	background-position: 60% 50%;
 }
 #pay{
-	background-image: url('../image/pay.png');
+	background-image: url('../images/pay.png');
 	background-position: 60% 50%;
 }
 #get-your-car{
-	background-image: url('../image/get-your-car.png');
+	background-image: url('../images/get-your-car.png');
 	background-position: 60% 50%;
 }
 .zoom1{
@@ -311,7 +311,7 @@ h2{
 	text-align: center;
 }
 #stats-cars{
-	background-image: url('../image/stats-cars.png');
+	background-image: url('../images/stats-cars.png');
 }
 .stats-image{
 	width: 32px;
@@ -321,13 +321,13 @@ h2{
 	background-position: 50% 50%;
 }
 #stats-users{
-	background-image: url('../image/stats-users.png');
+	background-image: url('../images/stats-users.png');
 }
 #stats-bookings{
-	background-image: url('../image/stats-bookings.png');
+	background-image: url('../images/stats-bookings.png');
 }
 #stats-kms{
-	background-image: url('../image/stats-kms.png');
+	background-image: url('../images/stats-kms.png');
 }
 .stats-number{
 	font-size:56px;
@@ -336,7 +336,7 @@ h2{
 	font-size: 14px;
 }
 /*#zoom-away{
-	background-image: url('../image/zoom-away.png');
+	background-image: url('../images/zoom-away.png');
 	background-position: 60% 50%;
 }*/
 .slidebar{
@@ -405,7 +405,7 @@ h2{
     margin-right: 10px;
 }
 .footer-bg{
-	background:url('../image/footer-bg.png') no-repeat;
+	background:url('../images/footer-bg.png') no-repeat;
 	background-position: 150px 50px;
 	position: relative;
 	/*bottom:-30px;*/
@@ -509,7 +509,7 @@ a:hover{
 	margin-left: 10px;
 }
 .social-media{
-	/*background: url('../image/social-media.png') no-repeat;*/
+	/*background: url('../images/social-media.png') no-repeat;*/
 	float: right;
 	width: 180px;
 }	
@@ -527,7 +527,7 @@ a:hover{
 	margin-top: 36px;
 }
 .zap-logo13{
-    background: url('../image/ZAP-logo3.png');
+    background: url('../images/ZAP-logo3.png');
     height: 37px;
     width: 88px;
     background-repeat: no-repeat;

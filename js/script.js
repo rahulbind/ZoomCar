@@ -75,7 +75,6 @@ $(document).ready(function() {
 
         navigationType: "bullet",
         navigationArrows: "solo",
-        navigationStyle: "preview2",
 
         touchenabled: "on",
         onHoverStop: "on",

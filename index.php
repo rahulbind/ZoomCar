@@ -122,7 +122,7 @@
                                 <div class="number-circle">
                                     <div class="number">5</div>
                                 </div>
-                                <img src="image/zoom-away.png" class="zoom1">
+                                <img src="images/zoom-away.png" class="zoom1">
                             </div>
                             <div class="work-text">
                                 <div class="work-heading">Zoom Away</div>
