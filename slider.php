@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="css/extralayers.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800' rel='stylesheet' type='text/css'>
 
 <article class="">
 
