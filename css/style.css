@@ -636,3 +636,6 @@ a{
 .largeredbtn{
 	padding: 16px 40px 16px 40px !important;
 }
+.tp-caption.fullbg_gradient {
+	/*background-color:#4A148C !important;*/
+}
