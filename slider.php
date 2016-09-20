@@ -81,7 +81,7 @@
                     	data-elementdelay="0.1" 
                     	data-endelementdelay="0.1" 
                     	data-endspeed="1000" 
-                    	style="z-index: 17; max-width: auto; max-height: auto; white-space: nowrap;">Use your car to start a new business
+                    	style="z-index: 17; max-width: auto; max-height: auto; white-space: nowrap;">Use your bike to start a new business
                     </div>
                     <div class="tp-caption white_heavy_70 customin randomrotateout tp-resizeme rs-parallaxlevel-10" 
                     	data-x="50" 

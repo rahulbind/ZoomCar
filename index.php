@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>zoomcartask</title>
+    <title>wickedridetask</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -27,16 +27,16 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="Maintext">
-                        <p>How would you like to own your dream car and have others pay for it?</p>
+                        <p>How would you like to own your dream bike and have others pay for it?</p>
                     </div>
                     <div class="subtext">
                         <p>Sounds too good to be true? Well it isn't now!</p>
                     </div>
                     <div class="descriptiontext">
-                        <p>With the Zoomcar Associate Program (ZAP) you can drive your own car and earn from it by letting others drive it too. And the best part is, the process is completely hassle free since Zoomcar manages the entire process, right from getting customers to managing bookings and processing payments. So you can sit back, relax, and see the cash roll in!</p>
+                        <p>With the Wickedride Associate Program (WPP) you can drive your own bike and earn from it by letting others drive it too. And the best part is, the process is completely hassle free since Wickedride manages the entire process, right from getting customers to managing bookings and processing payments. So you can sit back, relax, and see the cash roll in!</p>
                     </div>
                     <div class="punchlinetext">
-                        <p>Register today to become a proud car owner and a member of India's first car-sharing community.</p>
+                        <p>Register today to become a proud bike owner and a member of India's first bike-sharing community.</p>
                     </div>
                     <div class="">
                         <form action="#" class="form1">
@@ -60,7 +60,7 @@
                         </div>
                         <br>
                         <br>
-                        <div class="worktext">HOW ZAP WORK</div>
+                        <div class="worktext">HOW WPP WORK</div>
                         <div class="session">
                             <div class="circle" id="register">
                                 <div class="number-circle">
@@ -71,7 +71,7 @@
                                 <div class="work-heading">Register</div>
                                 <br>
                                 <div class="work-subheading">
-                                    Register with us and set the wheels of your dream car in motion
+                                    Register with us and set the wheels of your dream bike in motion
                                 </div>
                             </div>
                         </div>
@@ -85,7 +85,7 @@
                                 <div class="work-heading">Connect</div>
                                 <br>
                                 <div class="work-subheading">
-                                    A Zoomcar representative will connect with you explaining the entire process
+                                    A Wickedride representative will connect with you explaining the entire process
                                 </div>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                 <div class="work-heading">Pay</div>
                                 <br>
                                 <div class="work-subheading">
-                                    You can self fund the car or take a loan if you wish
+                                    You can self fund the bike or take a loan if you wish
                                 </div>
                             </div>
                         </div>
@@ -110,10 +110,10 @@
                                 </div>
                             </div>
                             <div class="work-text">
-                                <div class="work-heading">Get Your Car</div>
+                                <div class="work-heading">Get Your Bike</div>
                                 <br>
                                 <div class="work-subheading">
-                                    Our team will assist you with everything from the car purchase, to getting it registered and insured
+                                    Our team will assist you with everything from the bike purchase, to getting it registered and insured
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                 <div class="work-heading">Zoom Away</div>
                                 <br>
                                 <div class="work-subheading">
-                                    Once your car hits the road, you can start making money by allowing Zoomcar customers to drive it too
+                                    Once your bike hits the road, you can start making money by allowing Wickedride customers to drive it too
                                 </div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12"> -->
-    <div class="zap-stats">
+    <!-- <div class="zap-stats">
         <div class="stats-session">
             <div class="stats-image" id="stats-cars"></div>
             <div class="stats-number">2000+</div>
@@ -162,21 +162,21 @@
             <div class="stats-number">150M+</div>
             <div class="stats-description">KMS TRAVELLED</div>
         </div>
-    </div>
+    </div> -->
     <!-- </div>
                 </div>
             </div>
          -->
     <!-- </div> -->
-    <div class="container-fluid clearfix slidebar">
+    <!-- <div class="container-fluid clearfix slidebar">
         <div class="container">
             <div class="row">
-                <!-- <div class="col-md-12"> -->
+                
 
                 <div class="col-md-12" data-wow-delay="0.2s">
 
                     <div class="carousel slide" data-ride="carousel" id="quote-carousel">
-                        <!-- Bottom Carousel Indicators -->
+                        
                         <ol class="carousel-indicators">
                             <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="">
                             </li>
@@ -186,10 +186,10 @@
                             </li>
                         </ol>
 
-                        <!-- Carousel Slides / Quotes -->
+                        
                         <div class="carousel-inner text-center">
 
-                            <!-- Quote 1 -->
+                            
                             <div class="item active">
                                 <blockquote>
                                     <div class="row">
@@ -201,7 +201,7 @@
                                     </div>
                                 </blockquote>
                             </div>
-                            <!-- Quote 2 -->
+                            
                             <div class="item">
                                 <blockquote>
                                     <div class="row">
@@ -214,7 +214,7 @@
                                     </div>
                                 </blockquote>
                             </div>
-                            <!-- Quote 3 -->
+                            
                             <div class="item">
                                 <blockquote>
                                     <div class="row">
@@ -228,16 +228,16 @@
                             </div>
                         </div>
 
-                        <!-- Carousel Buttons Next/Prev -->
+                        
                         <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
                         <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
-            <!-- </div> -->
+            
         </div>
-    </div>
-    </div>
+    </div> -->
+     
     <div class="container-fluid clearfix footer-bg">
         <div class="container">
             <div class="row">
@@ -246,31 +246,31 @@
                         <div class="partition">
                             <h3>Cities</h3>
                             <div class="city-name">
-                                <a href="#">Car Rental Bangalore</a>
+                                <a href="#">Bike Rental Bangalore</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Pune</a>
+                                <a href="#">Bike Rental Pune</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Mumbai</a>
+                                <a href="#">Bike Rental Mumbai</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Delhi</a>
+                                <a href="#">Bike Rental Delhi</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Hyderabad</a>
+                                <a href="#">Bike Rental Hyderabad</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Chennai</a>
+                                <a href="#">Bike Rental Chennai</a>
                             </div>
                             <div class="city-name">
-                                <a href="#">Car Rental Chandighar</a>
+                                <a href="#">Bike Rental Chandighar</a>
                             </div>
                         </div>
                         <div class="partition1">
                             <h3>How It Works?</h3>
                             <div class="work-car1">
-                                <a href="#">How Zoomcar Works</a>
+                                <a href="#">How Wickedride Works</a>
                             </div>
                             <div class="work-car1">
                                 <a href="#">Policies</a>
@@ -288,19 +288,19 @@
                         <div class="partition2">
                             <h3>About Us</h3>
                             <div class="about-car">
-                                <a href="#">Zoomcar Team</a>
+                                <a href="#">Wickedride Team</a>
                             </div>
                             <div class="about-car">
-                                <a href="#">Zoomcar Associate Program (ZAP)</a>
+                                <a href="#">Wickedride Associate Program (WPP)</a>
                             </div>
                             <div class="about-car">
-                                <a href="#">Careers @ Zoomcar</a>
+                                <a href="#">Careers @ Wickedride</a>
                             </div>
                             <div class="about-car">
-                                <a href="#">Zoomcar Blog</a>
+                                <a href="#">Wickedride Blog</a>
                             </div>
                             <div class="about-car">
-                                <a href="#">Location and Cars</a>
+                                <a href="#">Location and Bikes</a>
                             </div>
                         </div>
                         <div class="partition3">
@@ -326,7 +326,7 @@
                 <div class="col-md-12">
                     <div class="wrapper">
                         <div class="copyright clearfix">
-                            © Copyright 2016 Zoomcar India Private Ltd. All rights reserved.
+                            © Copyright 2016 Wickedride India Private Ltd. All rights reserved.
 
                             <div class="social-media">
                                 <div class="number-circle1">

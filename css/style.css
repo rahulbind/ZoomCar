@@ -51,12 +51,12 @@
 .btn-info{
 	background-color: #ee5a57 !important;
 	width: 150px;
-	display: inline-block;
+	/*display: inline-block;*/
 	font-size: 14px;
 	font-weight: bold;
 	padding: 12px 0;
 	border: 0;
-	color: white;
+	/*color: white;*/
     border-radius: 2px;
 	
 }
@@ -222,6 +222,7 @@ h2{
 .work-car{
 	text-align: center;
 	padding-top: 20px;
+	margin-bottom: 40px;
 }
 .question{
 	width:36px;
@@ -256,20 +257,20 @@ h2{
 	display: inline-block;
 	border-radius: 50%;
 	background-repeat: no-repeat;
-	margin: 0px 73px;
+	/*margin: 0px 73px;*/
 }
 .number-circle{
-	width: 33px;
-	height: 33px;
+	width: 30px;
+	height: 30px;
 	border-radius: 50%;
-	padding-top: 4px;
-	border: 3px solid white;
+	padding-top: 3px;
+	border: 2px solid white;
 	background-color: #bcc7d2;
 }
-.number{
+/*.number{
 	font-size: 14px;
 	color: black;
-}
+}*/
 .work-heading{
 	padding-top: 20px;
 	font-size: 22px;
@@ -523,26 +524,26 @@ a:hover{
 	    font-family: 'Open Sans',sans-serif;
 }
 .form2{
-	text-align: center;
+	/*text-align: center;*/
 	margin-top: 36px;
 }
 .zap-logo13{
     background: url('../images/zap-logo3.png');
-    height: 37px;
-    width: 88px;
+    height: 40px;
+    width: 90px;
     background-repeat: no-repeat;
     background-size: 100%;
     display: block;
     margin-left: 124px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .faq1{
 	font-size: 20px;
     color: #33414f;
     margin: 20px auto;
-    text-align: center;
+    /*text-align: center;*/
     font-weight: 600;
-    display: block;
+    /*display: block;*/
 }
 .zap-faq-bubble{
 	width: 1000px;
