@@ -46,7 +46,7 @@
                     	style="z-index: 16;"
                     >
                         <div class=" rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                            <img src="images/dummy.png" alt="" data-lazyload="images/redbg2.jpg">
+                            <img src="images/dummy.png" alt="" data-lazyload="images/redbg1.jpg">
                         </div>
                     </div>
                     <div class="tp-caption white_thin_34 customin randomrotateout tp-resizeme rs-parallaxlevel-10" 
