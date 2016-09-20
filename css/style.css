@@ -545,7 +545,7 @@ a:hover{
     display: block;
 }
 .zap-faq-bubble{
-	width: 710px;
+	width: 1000px;
 	text-align: center;
 	margin: 40px auto;
 	box-shadow: 0 0 45px 10px rgba(0,0,0,0.1);
@@ -558,7 +558,7 @@ a:hover{
     font-size: 20px;
     /*color: lightgrey;*/
     /*font-weight: 300;*/
-    width: 700px;
+   /* width: 700px;*/
     display: inline-block;
 }
 body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li.active{
@@ -569,6 +569,11 @@ body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li.a
 }
 body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul{
 	border-bottom: 0px solid #ddd;
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li.active > a{
+	    position: relative;
+    display: block;
+    padding: 15px 15px;
 }
 body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li:nth-child(1) > a{
 	margin-right: 4px;
@@ -585,43 +590,74 @@ body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li.a
     /* border: 1px solid #ddd; */
     /* border-bottom-color: transparent; */
 }
-/*.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
-	color: #555;
-    cursor: default;
-     background-color: #fff; 
-    /* border: 1px solid #ddd; */
-    /*border-bottom-color: transparent;
-    text-decoration: none;*/
-    /* background-color: #eee; */
-/*}*/
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li.active > a{
+	border: 0px solid #ddd; */
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li:nth-child(1){
+	    margin-right: 166px;
+    margin-left: 2px;
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li:nth-child(2){
+	    margin-right: 165px;
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li.active > a{
+	border-radius:0px 0px 0 0;
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li:nth-child(2) > a{
+	border: 0px solid transparent; 
+     border-radius: 0px 0px 0 0; 
+}
+body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > li:nth-child(3) > a{
+	border: 0px solid transparent; 
+     border-radius: 0px 0px 0 0; 
+}
 .fs{
 	 /*padding: 20px;*/
     font-size: 20px;
-    font-weight: 300;
-    /*color: #555;
-    cursor: default;
-    background-color: #fff;
-    display: block;
-    padding: 10px 15px;
-        margin-right: 2px;
-    line-height: 1.42857143;
-    border: 1px solid transparent;
-    text-decoration: none;
-    /*border: 0;*/
-    /*border: 0px solid #6eae47;
-    border: 0px solid transparent;*/*/
-    /*border-top: 3px solid #6eae47;*/
-    
+    font-weight: 300;  
 }
-.zap-faq-data{
-	width: 850px;
+.tab-content{
+	width: 900px;
     font-size: 16px;
     color: #33414f;
     margin: 0 auto;
-    padding: 0 40px 0 50px;
+   /* padding: 0 40px 0 50px;*/
     text-align: justify;
     font-family: 'Open Sans',sans-serif;
-    font-size: 16px;
+    
+}
+#purchasingthevehicle > h3{
+	color:#33414f;
+	font-size: 16px;
+    color: #33414f;
+    margin: 0 auto;
+    /*padding: 0 40px 0 50px;*/
+    text-align: justify;
+    font-family: 'Open Sans',sans-serif;
+    margin-bottom: 20px; 
+    font-weight: 600;
+}
+#carsoperation > h3{
+	color:#33414f;
+	font-size: 16px;
+    color: #33414f;
+    margin: 0 auto;
+    /*padding: 0 40px 0 50px;*/
+    text-align: justify;
+    font-family: 'Open Sans',sans-serif;
+    margin-bottom: 20px; 
+    font-weight: 600;
+}
+#financialconsideration > h3{
+	color:#33414f;
+	font-size: 16px;
+    color: #33414f;
+    margin: 0 auto;
+    /*padding: 0 40px 0 50px;*/
+    text-align: justify;
+    font-family: 'Open Sans',sans-serif;
+    margin-bottom: 20px; 
+    font-weight: 600;
 }
 .heading{
 	font-weight: 600;
