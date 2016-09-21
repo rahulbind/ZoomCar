@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"> -->
 
 </head>
 
@@ -242,7 +242,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="footer-text">
+                    <form action="#" class="form4">
+                        <input type="text" placeholder="ENTER EMAIL ID TO SUBSCRIBE" class="input2">
+                    </form>
+                    
+                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <button class="btn btn-success btn-lg btn2">SUBMIT</button>
+                    
+                    <nav>
+                        <ul>
+                            <div class="ul">
+                            <a href="#"><li class="about-bikes">MOTORCYCLES</li></a>
+                            <a href="#"><li class="about-bikes1">TESTIMONIALS</li></a>
+                            <a href="#"><li class="about-bikes1">FAQ's</li></a>
+                            <a href="#"><li class="about-bikes1">TERMS AND CONDITIONS</li></a>
+                            <a href="#"><li class="about-bikes1">LOGIN</li></a>
+                            </div>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <div class="container-fluid clearfix footer-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="about-bikes2">Bikes for rent in Bangalore to explore city. Rent a bike for daily commute. Hire bike for tours and expeditions. Rental bike for office commute. Motorcycle rentals for long weekends. Rent a motorcycle for special occasions and celebrate. Rental motorcycle for anniversary celebrations. Hire a motorcycle to celebrate a promotion. Rental bikes for grand entrance of groom. Bikes on rent for few hours to ride to a exotic dinner. Bike rentals for road trips, weekend leisure and many more. Rent Royal enfield's Bullet, Classic 350, Thunderbird 350, Standard 500, Thunderbird 500, Desert Storm, Himalayan, Continental GT, Classic 500 and many more. Rent KTM Duke 200, 390, RC 200, RC 390, Avenger, Benelli, Ducati, Harley Davidson, Ninja, Kawasaki, Triumph and many more. We have served riders from from USA, Europe nations like France, Germany, Italy, Spain, Norway, Sweden, Australia, New Zealand, China, Japan, Singapore, Israel and many more. They rent motorcycles to travel across India, Nepal, Bhutan and many other Southeast Asian countries. We provide backup vehicles with support staff for guided tours. We conduct expeditions to Leh, Ladakh, Spiti Valley, Arunachal Pradesh, Goa and many exotic destinations across India. The motorcycle rentals stores are spread across India to provide service and support to travellers. The rental motorcycles come with Insurance and additional spares to support long tours. The rental motorcycles come with zero deposit and easy booking, pick up and return process. The motorcycle rentals has helped travellers to eliminate middle men and explore country as per individual tastes. Our offer great bikes at cheapest rates with good road side assistance across India. The cheap rates will not affect the quality of service but helps to serve more customers through rental services. Royal Enfield for rent in Bangalore.. Royal Enfield rentals in Bangalore. KTM Duke for rent in Bangalore. KTM Duke rentals in Bangalore. Best and cheapest bike rentals in Bangalore. Avenger for rent in Bangalore Bike rentals in Bangalore now at cheapest rates at various locations across Bangalore. Bike rentals in Bangalore from Wicked Ride is most preferred and highly rated by users. Bike rentals in Bangalore was started by Wicked Ride and now serves at 8 locations across Bangalore. Wicked Ride provides riding gears for rent. The rental gears can be availed during pick up or during booking with help of sales team. You can rent Rynox Jackets, DSG Jackets for rent. You can also rent Rynox gloves and DSG Gloves from Wicked Ride. You can also rent many other riding gears from Wicked Ride. The rental riding gears are available across all stores. The riding gears can be bought at <a href="#">store.wickedride.com
+                    </a> Wicked Ride advice use of riding gears for safety and comfort during rides. The customers often rent riding gears from Wicked Ride for Leh Ladakh tours, Nepal tours, Bhutan tours and various other tours.</p>
+                    <!-- <div class="footer-text">
                         <div class="partition">
                             <h3>Cities</h3>
                             <div class="city-name">
@@ -315,20 +343,29 @@
                                 <p class="add1">Bangalore – 560038</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </div>
+    <div class="container-fluid clearfix footer-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                </div>
+            </div>
+        </div>
+    </div>            
     <div class="container-fluid clearfix end-footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="wrapper">
                         <div class="copyright clearfix">
-                            © Copyright 2016 Wickedride India Private Ltd. All rights reserved.
+                            USE OF THIS SITE CONSTITUTES ACCEPTANCE OF OUR <a href="#">PRIVACY POLICY</a>. COPYRIGHT 2015 WICKEDRIDE ADVENTURE SERVICES PVT. LTD.
 
-                            <div class="social-media">
+
+                            <!-- <div class="social-media">
                                 <div class="number-circle1">
                                     <a href="https://facebook.com" target="_blank"><i class="fa fa-facebook" aria-hidden="true" id="f1"></i></a>
                                 </div>
@@ -341,7 +378,7 @@
                                 <div class="number-circle1" id="c3">
                                     <a href="https://google.com"  target="_blank"><i class="fa fa-google-plus" aria-hidden="true" id="f1"></i></a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

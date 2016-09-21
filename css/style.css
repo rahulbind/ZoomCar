@@ -1,6 +1,7 @@
 .textsection{
-	background-image: url('../images/sec background.png');
+	/*background-image: url('../images/sec background.png');*/
 	font-family: 'Open Sans',sans-serif;
+	background-color: rgb(247, 229, 223);
 
 }
 .Maintext{
@@ -406,12 +407,12 @@ h2{
     margin-right: 10px;
 }
 .footer-bg{
-	background:url('../images/footer-bg.png') no-repeat;
-	background-position: 150px 50px;
-	position: relative;
+	/*background:url('../images/footer-bg.png') no-repeat;*/
+	/*background-position: 150px 50px;
+	position: relative;*/
 	/*bottom:-30px;*/
-	height: 210px;
-	background-color:#404957;
+	/*height: 210px;*/
+	background-color:#d7dce4;;
 }
 .footer-text{
 	width: 960px;
@@ -528,7 +529,7 @@ a:hover{
 	margin-top: 36px;
 }
 .zap-logo13{
-    background: url('../images/zap-logo3.png');
+    background: url('../images/zap-logo4.png');
     height: 40px;
     width: 90px;
     background-repeat: no-repeat;
@@ -676,3 +677,91 @@ a{
 .tp-caption.fullbg_gradient {
 	/*background-color:#4A148C !important;*/
 }
+.input2{
+	border-radius: 4px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    /* font-family: 'Roboto',sans-serif; */
+    width: 300px;
+    margin-top: 15px;
+    padding: 8px 12px;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: #555;
+    font-family: 'Gotham-Book';
+    float: left;
+}
+.btn2{
+	   background-color: #eee !important;
+    /* width: 150px; */
+    font-size: 14px;
+    padding: 8px 16px;
+    border-color: rgba(245, 245, 245, 0.27) !important;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.33);
+    margin-left: 15px;
+    margin-top: 15px;
+    float:left;
+}
+body > div.container-fluid.clearfix.footer-bg > div > div > div > div > i{
+	color: rgba(234,91,31,1);
+    margin-left: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    font-size: x-large;
+    float: left;
+}
+.about-bikes{
+	float: left;
+    display: inline-block;
+    margin-left: 100px;
+    /* margin-left: 19px; */
+    margin-top: 18px;
+    font-size: 12px;
+    color: black;
+    border-right: #888888 solid 1px;
+    padding: 0px 15px;
+    /* margin-left: 28px; */
+}
+.about-bikes1{
+	float: left;
+    display: inline-block;
+    /*margin-left: 70px;*/
+    /* margin-left: 19px; */
+    margin-top: 18px;
+    font-size: 12px;
+    color: black;
+    border-right: #888888 solid 1px;
+    padding: 0px 15px;
+    /* margin-left: 28px; */
+}
+.about-bikes2{
+	font-size: 12px;
+	color: rgba(0, 0, 0, 0.69);
+}
+body > div.container-fluid.clearfix.footer-bg > div > div > div > nav > ul > li:nth-child(1) > a{
+	color: rgba(0, 0, 0, 0.69);
+    font-weight: 300;
+}
+body > div:nth-child(4) > div > div > div > i{
+	/*display: inline-block;*/
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    /*text-rendering: auto;
+    -webkit-font-smoothing: antialiased;*/
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* font-variant: initial; */
+    font-size: x-large;
+    color: rgba(234,91,31,1);
+}
+body > div:nth-child(5) > div > div > div > p > a{
+	color: #221def;
+}
+body > div.container-fluid.clearfix.end-footer > div > div > div > div > div > a{
+	color: #221def;
+}
+
+
+
