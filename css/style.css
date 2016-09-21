@@ -27,8 +27,8 @@
 	font-size: 14px;
 	padding-top: 15px;
 	opacity: .54;
-	padding-right: 181px;
-    padding-left: 191px;
+	padding-right: 175px;
+    padding-left: 175px;
     line-height: 2.5;
     color: black;
 }
@@ -45,7 +45,7 @@
 .form1{
 	text-align: center;
 	margin-top: 25px;
-	margin-bottom: 85px;
+	margin-bottom: 60px;
 
 }
 .btn-info{
