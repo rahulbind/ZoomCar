@@ -22,6 +22,8 @@
 	font-size: 20px;
 	opacity: .54;
 	color: black;
+	    padding-right: 250px;
+    padding-left: 250px;
 }
 .descriptiontext{
 	text-align: center;
@@ -412,7 +414,7 @@ h2{
 	position: relative;*/
 	/*bottom:-30px;*/
 	/*height: 210px;*/
-	background-color:#d7dce4;;
+	background-color:rgb(247, 229, 223);
 }
 .footer-text{
 	width: 960px;
@@ -475,17 +477,19 @@ a:hover{
 	line-height: -1px;
 }
 .end-footer{
-	background: #323a45;
-	height: 60px;
+	background: rgba(234, 91, 31, 0.28);
+	/*height: 60px;*/
 }
 .wrapper{
 	width: 960px;
 	margin:0 auto;
 }
 .copyright{
-	color:#999;
-	font-size: 12px;
-	margin-top: 15px;
+	/*color: #999;*/
+    font-size: 12px;
+    margin-top: 10px;
+    padding: 15px 0px;
+    text-align: center;
 }
 .number-circle1{
 	width: 30px;
@@ -618,6 +622,18 @@ body > div:nth-child(2) > div > div.row > div > div.zap-faq-bubble > div > ul > 
     font-size: 20px;
     font-weight: 300;  
 }
+body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li:nth-child(1) > a:hover{
+	color:#eb952e;
+}
+body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li:nth-child(2) > a:hover{
+	color:#eb952e;
+}
+body > div:nth-child(2) > div > div > div > div.zap-faq-bubble > div > ul > li:nth-child(3) > a:hover{
+	color:#eb952e;
+}
+/*.fs.hover{
+	color:#eb952e;
+}*/
 .tab-content{
 	width: 900px;
     font-size: 16px;
@@ -711,10 +727,26 @@ body > div.container-fluid.clearfix.footer-bg > div > div > div > div > i{
     font-size: x-large;
     float: left;
 }
+.btn2:hover{
+	color:#1f1e1e;
+	text-decoration: none;
+}
 .about-bikes{
 	float: left;
     display: inline-block;
-    margin-left: 100px;
+    margin-left: 150px;
+    /* margin-left: 19px; */
+    margin-top: 18px;
+    font-size: 12px;
+    color: black;
+    border-right: #888888 solid 1px;
+    padding: 0px 15px;
+    /* margin-left: 28px; */
+}
+.about-bikes0{
+	float: left;
+    display: inline-block;
+    /*margin-left: 70px;*/
     /* margin-left: 19px; */
     margin-top: 18px;
     font-size: 12px;
@@ -731,7 +763,7 @@ body > div.container-fluid.clearfix.footer-bg > div > div > div > div > i{
     margin-top: 18px;
     font-size: 12px;
     color: black;
-    border-right: #888888 solid 1px;
+    /*border-right: #888888 solid 1px;*/
     padding: 0px 15px;
     /* margin-left: 28px; */
 }
@@ -756,12 +788,47 @@ body > div:nth-child(4) > div > div > div > i{
     font-size: x-large;
     color: rgba(234,91,31,1);
 }
+body > div:nth-child(5) > div > div > div > i{
+	font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    /*text-rendering: auto;
+    -webkit-font-smoothing: antialiased;*/
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* font-variant: initial; */
+    font-size: x-large;
+    color: rgba(234,91,31,1);
+}
 body > div:nth-child(5) > div > div > div > p > a{
 	color: #221def;
 }
 body > div.container-fluid.clearfix.end-footer > div > div > div > div > div > a{
 	color: #221def;
 }
-
-
+.contact-details{
+	background: rgba(0, 0, 0, 0.75);
+}
+.emailid{
+	width: 200px;
+    font-size: 18px;
+    float: left;
+    /* text-align: center; */
+    color: #eb952e;
+    padding: 0px 299px;
+    border-right: #eb952e solid 1px;
+    margin-top: 15px;
+}
+.mob-no{
+	width: 200px;
+    float: right;
+    /*color: #eb952e;*/
+    font-size: 18px;
+    color: #eb952e;
+    /*padding: 0px -12px;*/
+    font-size: 18px;
+    margin-right: 270px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
 

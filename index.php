@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"> 
 
 </head>
 
@@ -27,13 +27,13 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="Maintext">
-                        <p>How would you like to own your dream bike and have others pay for it?</p>
+                        <p>Now own a dream bike and make itearn for you..</p>
                     </div>
                     <div class="subtext">
-                        <p>Sounds too good to be true? Well it isn't now!</p>
+                        <p>Well.. we all dreamt of owning a Pulsar when we first saw thePulsar ad or Bullet when we saw a parah-guy riding a Bullet or Harley Davidson after watching Terminator.</p>
                     </div>
                     <div class="descriptiontext">
-                        <p>With the Wickedride Associate Program (WPP) you can drive your own bike and earn from it by letting others drive it too. And the best part is, the process is completely hassle free since Wickedride manages the entire process, right from getting customers to managing bookings and processing payments. So you can sit back, relax, and see the cash roll in!</p>
+                        <p>With the Wicked Ride &#39;Earn from your bike program&#39; you can ride your own dream bike when needed and earn from it by renting it out to fellow riders. You can now buy a bike and get it associated with Wicked Ride and we shall take it ahead from there.. Get riders to ride them and manage bookings, revenue and bikes with timely service from the authorized dealers. All you have to do is sit back, relax and spend the money your bike earns or buy newer bikes :) .</p>
                     </div>
                     <div class="punchlinetext">
                         <p>Register today to become a proud bike owner and a member of India's first bike-sharing community.</p>
@@ -237,7 +237,20 @@
             
         </div>
     </div> -->
-     
+     <div class="container-fluid clearfix contact-details">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="emailid">
+                        <p>reservations@wickedride.com</p>
+                    </div>
+                    <div class="mob-no">
+                        <p>+91 8880 299 299</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="container-fluid clearfix footer-bg">
         <div class="container">
             <div class="row">
@@ -253,9 +266,9 @@
                         <ul>
                             <div class="ul">
                             <a href="#"><li class="about-bikes">MOTORCYCLES</li></a>
-                            <a href="#"><li class="about-bikes1">TESTIMONIALS</li></a>
-                            <a href="#"><li class="about-bikes1">FAQ's</li></a>
-                            <a href="#"><li class="about-bikes1">TERMS AND CONDITIONS</li></a>
+                            <a href="#"><li class="about-bikes0">TESTIMONIALS</li></a>
+                            <a href="#"><li class="about-bikes0">FAQ's</li></a>
+                            <a href="#"><li class="about-bikes0">TERMS AND CONDITIONS</li></a>
                             <a href="#"><li class="about-bikes1">LOGIN</li></a>
                             </div>
                         </ul>
