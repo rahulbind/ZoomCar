@@ -845,3 +845,71 @@ body > div.container-fluid.clearfix.contact-details > div > div > div > div.emai
     border-right: #eb952e solid 1px;
     margin-top: 10px;
 }
+body > div:nth-child(6) > div > div > div:nth-child(1) > p > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+.citiesname{
+	float: left;
+	display: inline-block;
+	text-decoration: none;
+	/*color: rgba(0, 0, 0, 0.69);*/
+	    color: rgba(64, 62, 62, 0.88);
+	font-size: 12px;
+	    margin-left: 36px;
+}
+.cityname{
+	color: black;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(1) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(2) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(3) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(4) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(5) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(6) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(7) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(8) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(9) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(10) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(11) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(12) > a:hover{
+    color: #eb952e;
+    text-decoration: none;
+}
+body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(13) > a:hover{
+	color: #eb952e;
+    text-decoration: none;
+}
