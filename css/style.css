@@ -809,17 +809,17 @@ body > div.container-fluid.clearfix.end-footer > div > div > div > div > div > a
 .contact-details{
 	background: rgba(0, 0, 0, 0.75);
 }
-.emailid{
+/*.emailid{
 	width: 200px;
     font-size: 18px;
     float: left;
-    /* text-align: center; */
+    
     color: #eb952e;
     padding: 0px 299px;
     border-right: #eb952e solid 1px;
     margin-top: 15px;
-}
-.mob-no{
+}*/
+body > div.container-fluid.clearfix.contact-details > div > div > div > div.mob-no > p > a{
 	width: 200px;
     float: right;
     /*color: #eb952e;*/
@@ -828,7 +828,20 @@ body > div.container-fluid.clearfix.end-footer > div > div > div > div > div > a
     /*padding: 0px -12px;*/
     font-size: 18px;
     margin-right: 270px;
-    margin-top: 15px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
-
+body > div.container-fluid.clearfix.end-footer > div > div > div > div > div > a{
+	color: #ff8d05;
+    text-decoration: none;
+}
+body > div.container-fluid.clearfix.contact-details > div > div > div > div.emailid > p > a{
+	width: 200px;
+    font-size: 18px;
+    float: left;
+    /* text-align: center; */
+    color: #eb952e;
+    padding: 0px 299px;
+    border-right: #eb952e solid 1px;
+    margin-top: 10px;
+}

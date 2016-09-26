@@ -242,10 +242,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="emailid">
-                        <p>reservations@wickedride.com</p>
+                        <p><a href="#">reservations@wickedride.com</a></p>
                     </div>
                     <div class="mob-no">
-                        <p>+91 8880 299 299</p>
+                        <p><a href="#">+91 8880 299 299</a></p>
                     </div>
                 </div>
             </div>
