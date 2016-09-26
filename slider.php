@@ -141,7 +141,7 @@
                     >
                         <div class=" rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
                             <!-- <a href="know-more.php" class="largeredbtn">Know More</a> -->
-                            <a data-toggle="modal" data-target="#myModal" class="largeredbtn">Video</a>
+                            <a data-toggle="modal" data-target="#myModal1" class="largeredbtn">Video</a>
                         </div>
                     </div>
                 </li>

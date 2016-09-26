@@ -913,3 +913,6 @@ body > div:nth-child(6) > div > div > div:nth-child(2) > ul > li:nth-child(13) >
 	color: #eb952e;
     text-decoration: none;
 }
+#myModal1 > div > div > div > embed{
+	width: 100%;
+}
