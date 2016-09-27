@@ -68,7 +68,7 @@
       								</ol>		
     						</div>
     						<div id="carsoperation" class="tab-pane fade">
-      								<h3>Bike handling,repairs,service and operations</h3>
+      								<h3>Bike handling, repairs, service and operations</h3>
       								<ol id="operation">
             							<li class="heading">Where will the bike be parked?</li>
             							<p class="answer">At any given point of time, bike will be at our store or with the customer or at authorized service center. You can always track the bike location through GPS.</p>
